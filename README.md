@@ -14,6 +14,8 @@ Sara Hesse
 The goal of my-GEO712-repository is to practice using Github. The
 contents of the previous activity are given below:
 
+# Research Interest: Wildfires in Canada's Boreal Forest
+
 My main research interest is tracking the impacts of climate change on
 post-wildfire forest regrowth in Canada’s boreal forest over several
 decades. The ***hypothesis is that increased atmospheric $CO_{2}$ will
