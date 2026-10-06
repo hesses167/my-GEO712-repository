@@ -5,20 +5,20 @@ Sara Hesse
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# my-GEO712-repository
+# My GEO712 Repository
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 
-The goal of my-GEO712-repository is to practice using Github. The
+The goal of my GEO712 repository is to practice using Github. The
 contents of the previous activity are given below:
 
 # Research Interest: Wildfires in Canada's Boreal Forest
 
 My main research interest is tracking the impacts of climate change on
 post-wildfire forest regrowth in Canada’s boreal forest over several
-decades. The ***hypothesis is that increased atmospheric $CO_{2}$ will
+decades. The ***hypothesis is that increased atmospheric*** $CO_{2}$ ***will
 lead to greater rates of evapotranspiration, and therefore, faster
 regrowth and recovery.*** I will be assessing the change in *3 key
 metrics* over several decades: **rate of canopy height regrowth, rate of
@@ -28,7 +28,7 @@ early 2000s. Satellite data will be used to make these assessments where
 available, while machine learning will be used to simulate forest
 conditions prior to the launch of Landsat 1. ***The goal of this
 research is to determine if wildfires have had a net effect of warming
-(due to the release of $CO_{2}$ during burning) or cooling (biophysical
+(due to the release of*** $CO_{2}$ ***during burning) or cooling (biophysical
 mechanisms, such as increasing albedo from snow cover and deciduous
 plant regrowth) on the global climate.*** This research is of *political
 importance* with growing tensions with the USA, as they are currently
